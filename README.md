@@ -2,7 +2,11 @@
  A demo app.
 
 ## Getting Started
-[img]https://i.postimg.cc/ZWxJk3Mv/Screenshot-2021-06-27-at-10-18-30-PM.png[/img][/url]
+
+<a href="https://postimg.cc/ZWxJk3Mv" target="_blank"><img src="https://i.postimg.cc/ZWxJk3Mv/Screenshot-2021-06-27-at-10-18-30-PM.png" alt="Screenshot-2021-06-27-at-10-18-30-PM"/></a><br/><br/>
+<a href="https://postimg.cc/xkjn9Cwx" target="_blank"><img src="https://i.postimg.cc/xkjn9Cwx/Screenshot-2021-06-27-at-10-22-16-PM.png" alt="Screenshot-2021-06-27-at-10-22-16-PM"/></a><br/><br/>
+
+[url=https://postimg.cc/ZWxJk3Mv][img]https://i.postimg.cc/ZWxJk3Mv/Screenshot-2021-06-27-at-10-18-30-PM.png[/img][/url]
 
 [url=https://postimg.cc/xkjn9Cwx][img]https://i.postimg.cc/xkjn9Cwx/Screenshot-2021-06-27-at-10-22-16-PM.png[/img][/url]
 
