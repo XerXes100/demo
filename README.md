@@ -2,7 +2,7 @@
  A demo app.
 
 ## Getting Started
-[url=https://postimg.cc/ZWxJk3Mv][img]https://i.postimg.cc/ZWxJk3Mv/Screenshot-2021-06-27-at-10-18-30-PM.png[/img][/url]
+[img]https://i.postimg.cc/ZWxJk3Mv/Screenshot-2021-06-27-at-10-18-30-PM.png[/img][/url]
 
 [url=https://postimg.cc/xkjn9Cwx][img]https://i.postimg.cc/xkjn9Cwx/Screenshot-2021-06-27-at-10-22-16-PM.png[/img][/url]
 
