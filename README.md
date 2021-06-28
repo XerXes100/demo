@@ -3,7 +3,9 @@
 
 ## Screenshots:
 
-![Screenshot](screenshots/ss1.png)
+<img src="screenshots/ss1.png" width="200" height="200">
+
+
 ![Screenshot](screenshots/ss2.png)
 ![Screenshot](screenshots/ss3.png)
 ![Screenshot](screenshots/ss4.png)
