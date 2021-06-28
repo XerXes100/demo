@@ -4,13 +4,11 @@
 ## Screenshots:
 
 <img src="screenshots/ss1.png" width="200" height="400">
-
-
-![Screenshot](screenshots/ss2.png)
-![Screenshot](screenshots/ss3.png)
-![Screenshot](screenshots/ss4.png)
-![Screenshot](screenshots/ss5.png)
-![Screenshot](screenshots/ss6.png)
+<img src="screenshots/ss2.png" width="200" height="400">
+<img src="screenshots/ss3.png" width="200" height="400">
+<img src="screenshots/ss4.png" width="200" height="400">
+<img src="screenshots/ss5.png" width="200" height="400">
+<img src="screenshots/ss6.png" width="200" height="400">
 
 ## How to Use 
 
