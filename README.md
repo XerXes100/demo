@@ -1,15 +1,6 @@
 # Demo
  A demo app.
-
-## Screenshots:
-
-<img src="screenshots/ss1.png" width="200" height="400">
-<img src="screenshots/ss2.png" width="200" height="400">
-<img src="screenshots/ss3.png" width="200" height="400">
-<img src="screenshots/ss4.png" width="200" height="400">
-<img src="screenshots/ss5.png" width="200" height="400">
-<img src="screenshots/ss6.png" width="200" height="400">
-
+ 
 ## How to Use 
 
 **Step 1:**
@@ -35,3 +26,12 @@ Run the app using either the emulator or a physical device if possible
 flutter run 
 ```
 
+
+## Screenshots:
+
+<img src="screenshots/ss1.png" width="200" height="400">
+<img src="screenshots/ss2.png" width="200" height="400">
+<img src="screenshots/ss3.png" width="200" height="400">
+<img src="screenshots/ss4.png" width="200" height="400">
+<img src="screenshots/ss5.png" width="200" height="400">
+<img src="screenshots/ss6.png" width="200" height="400">
