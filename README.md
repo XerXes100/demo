@@ -3,7 +3,7 @@
 
 ## Screenshots:
 
-<img src="screenshots/ss1.png" width="200" height="200">
+<img src="screenshots/ss1.png" width="200" height="400">
 
 
 ![Screenshot](screenshots/ss2.png)
