@@ -221,10 +221,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   }
 
   uploadImageGetURL() async {
-    firebase_storage.Reference storageReference =
-        firebase_storage.FirebaseStorage.instance.ref();
-
     File? _imageFile = File(_image!.path);
+
+    firebase_storage.Reference storageReference =
+    firebase_storage.FirebaseStorage.instance.ref(path.basename(_imageFile.path));
+
     firebase_storage.UploadTask uploadTask =
       storageReference.putFile(_imageFile);
     await uploadTask;
@@ -233,10 +234,10 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         _uploadedFileURL = fileURL;
       });
     });
-
   }
 
   createProfile() async {
+    await uploadImageGetURL();
     Map<String, dynamic> temp_map = {
       'name': nameController!.text,
       'age': ageController!.text,
